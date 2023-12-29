@@ -289,12 +289,14 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = X252S6R4U2;
 				INFOPLIST_FILE = "Magic 8 Ball/Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = "Magic 8 Ball";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "co.appbrewery.Magic-8-Ball";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.enzorossetto.Magic-8-Ball";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 1;
@@ -306,12 +308,14 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = X252S6R4U2;
 				INFOPLIST_FILE = "Magic 8 Ball/Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = "Magic 8 Ball";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "co.appbrewery.Magic-8-Ball";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.enzorossetto.Magic-8-Ball";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 1;
